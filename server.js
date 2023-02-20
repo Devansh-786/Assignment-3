@@ -1,3 +1,14 @@
+/*********************************************************************************
+*  WEB322 – Assignment 03
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
+*  of this assignment has been copied manually or electronically from any other source 
+*  (including 3rd party web sites) or distributed to other students.
+* 
+*  Name: Devansh Goyal     Student ID: 168394211       Date: 19 February, 2023
+*
+*  Online (Cyclic) Link: 
+*
+********************************************************************************/
 const express = require('express');
 const blogData = require("./blog-service");
 const multer = require("multer");
